@@ -1,4 +1,3 @@
-In this text file for github :"
 # LLM-Driven Dataset-Tehran Stock Exchange
 This repository contains data for the top 40 traded stocks in the Tehran Stock Exchange, along with their extracted financial features as described in our research paper.
 
